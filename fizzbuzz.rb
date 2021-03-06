@@ -7,5 +7,3 @@ if int % 3 == 0 and 5 == 0 # if the number int is divisble by 3 and 5
     "FizzBuzz" #Go FizzBuzz
   end
 end
-
-
