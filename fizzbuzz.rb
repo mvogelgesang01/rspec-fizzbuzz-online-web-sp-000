@@ -1,17 +1,11 @@
 def fizzbuzz (int)
 if int % 3 == 0 #if the number int is diviisble by 3
   "Fizz" #Go fizz
-  end
-end
-
-def fizzbuzz (int)
-  if int % 5 == 0 #if the number int is diviisble by 5
+if int % 5 == 0 #if the number int is diviisble by 5
     "Buzz" #Go Buzz
-  end
-end
-
-def fizzbuzz (int)
-  if int % 3 == 0 and 5 == 0 # if the number int is divisble by 3 and 5
+if int % 3 == 0 and 5 == 0 # if the number int is divisble by 3 and 5
     "FizzBuzz" #Go FizzBuzz
   end
 end
+
+
